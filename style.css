@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ body{
+    background-color: #666;
+} 
+
+
+
+.sun{
+    height: 70px;
+    background-color: #f5f6f6;
+    color: black;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+header{
+    border-top: 8px solid black;
+    padding-left: 10px;
+}
+
+.sun li:first-child{
+    color: #03cafc;
+}
+
+.sun ul li{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+
+.slid{
+    height: 350px;
+}
+
+.greet h1{
+
+    color: #39CAFC;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.greet h3{
+    color: #070404;
+    font-size: 60px;
+    font-weight: 700;
+}
+.mg{
+    position: relative;
+    top: 50px;
+}
+
+.sedio{
+    /* height: 400px; */
+    background-color: white;
+    margin-top: 80px;
+}
+
+.regg{
+    height: 300px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.grace{
+    height: 300px;
+    background-color: black;
+}
+
+.btno{
+    height: 50px;
+    background-color: white;
+    width: 200px;
+    border: none;
+    border-radius: 30px;
+    border: 2px solid #1a1a1a;
+    font-weight:500;
+}
+
+.pred{
+    height: 220px;
+    background-color: white;
+    border-top: 2px solid black;
+}
+.pred h1{
+    font-weight: 700;
+    color: #2a2a2c;
+}
+.pred p{
+
+    font-weight: 500;
+    color: #666;
+    width: 43%;
+    margin-left: 465px;
+}
+
+.rose{
+    height: 400px; 
+    background-color: white;
+}
+.pp{
+    height: 99px;
+    margin-left: 20px;
+
+}
+
+.jam{
+    border: 1px solid #555556;
+    line-height: 3;
+    height: 300px;
+}
+
+.jam ul li:last-child{
+    color:#2a2a2c;
+    font-weight: 700;
+}
+
+
+.prendo{
+    /* height: 400px; */
+    background-color: white;
+    margin-top: 50px;
+
+}
+.myright{
+    /* height: 400px; */
+    background-color: #030404;
+    position: relative;
+    right: 20px;
+    padding-top: 100px;
+    color: white;
+}
+
+.drop{
+    height: 400px;
+    width: 70%;
+}
+
+.goat{
+    height:4px;
+    border-radius: 8px;
+    background-color: white;
+    width: 72%;
+
+}
+
+.btno23{
+    height: 50px;
+    width: 200px;
+    /* color: white; */
+    border: none;
+    color: white;
+    background-color: rgba(255, 0, 0, 0);
+    border-radius: 30px;
+    border: 2px solid #f5f6f6;
+    font-weight:500;
+}
+
+.prices{
+    /* height: 100px; */
+    background-color: white;
+}
+
+.carousel-control-prev .jely{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 80px;
+}
+
+.carousel-control-next .jely{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 80px;
+
+}
+
+.prices h1{
+
+    font-size: 30px;
+    font-weight: 800;
+    padding: 10px;
+}
+
+.peso{
+    height: 200px;
+    background-color: #0c66669d;
+}
+
+.petit{
+    height: 150px;
+    width: 50%;
+    background-color: grey;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.glo{
+    position: relative;
+    right: 30px;
+    top: 20px;
+}
+.juice{
+    height: 90px;
+    background-color: yellow;
+}
+
+ .boris{
+    height: 150px;
+    background-color: black;
+} 
+
+.icp{
+    font-size: 40px;
+    color: white;
+}
